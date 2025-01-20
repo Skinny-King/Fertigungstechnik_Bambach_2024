@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1737390223.33136 "/Users/gmernst/Documents/ETH/HS24/Fertigungstechnik/ZF/Fertigungstechnik_Bambach_2024/main.tex" "main.pdf" "main" 1737390226.67925 0
+["pdflatex"] 1737398281.09872 "/Users/gmernst/Documents/ETH/HS24/Fertigungstechnik/ZF/Fertigungstechnik_Bambach_2024/main.tex" "main.pdf" "main" 1737398284.41115 0
   "/Users/gmernst/Documents/ETH/HS24/Fertigungstechnik/ZF/Fertigungstechnik_Bambach_2024/main.tex" 1737387298.61266 4747 66c22f5b26bf9d393ee6cbc67a4639bf ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -161,8 +161,8 @@
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1736678436 8221431 ca4cd72dc1eea36172237ab174f55076 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "cheatsheet.cls" 1737373675.07379 7725 9dbdd9c30c634922a18900a8417245ae ""
-  "main.aux" 1737390226.57562 370 8ac7803f45eccbf9fed373ce62d735a0 "pdflatex"
-  "main.out" 1737390226.57608 267 7a186b312232729e3b84ff92ef427dde "pdflatex"
+  "main.aux" 1737398284.30049 370 8ac7803f45eccbf9fed373ce62d735a0 "pdflatex"
+  "main.out" 1737398284.3008 267 7a186b312232729e3b84ff92ef427dde "pdflatex"
   "main.tex" 1737387298.61266 4747 66c22f5b26bf9d393ee6cbc67a4639bf ""
   "src/1_Definition und Aufgaben/Definition und Aufgaben.tex" 1736792113.13725 621 8b843c86f58281199456ec15eb819042 ""
   "src/2_Kosten Rechnung/Machinenstundensatz.tex" 1736812827.50626 1873 e77ea66d1138256acdce6744bb7e1323 ""
@@ -171,7 +171,7 @@
   "src/3_Prozesse und Prozessketten/Messen und Pruefen.tex" 1737373675.10083 1108 9290cdf20dfb5c18d6323d2496c498e5 ""
   "src/3_Prozesse und Prozessketten/Prozesse.tex" 1736780381.92517 1603 5c6b77fec129c4ba433c2b89bbdad557 ""
   "src/3_Prozesse und Prozessketten/Prozessfaehigkeit.tex" 1737373675.16995 1076 4e8d5d413241c93bfc2dcbff4aff4c78 ""
-  "src/3_Prozesse und Prozessketten/Rauheiten.tex" 1736800251.8162 668 a7c48c969c4990310d5f6346c6863cbd ""
+  "src/3_Prozesse und Prozessketten/Rauheiten.tex" 1737398280.86762 655 bd5b35086f3387269f16a71d646d4317 ""
   "src/4_Simulation/Simulation.tex" 1737387094.13718 3207 2b1841c144fef42a57eeab09076d3ffd ""
   "src/5_Urformen/Auslegung Giessprozess.tex" 1736795361.21557 951 58293dd457bd6a692210b7172f1ab6c6 ""
   "src/5_Urformen/Diffusion.tex" 1736799881.64202 150 505354a7c1359f858c280ed1a96ae0f9 ""
