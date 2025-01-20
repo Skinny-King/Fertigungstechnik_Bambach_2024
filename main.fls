@@ -1,8 +1,8 @@
-PWD /Users/gmernst/Documents/ETH/HS24/Fertigungstechnik/ZF/ernstg_ZF_Fertigungstechnik
+PWD /Users/gmernst/Documents/ETH/HS24/Fertigungstechnik/ZF/Fertigungstechnik_Bambach_2024
 INPUT /usr/local/texlive/2024/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/gmernst/Documents/ETH/HS24/Fertigungstechnik/ZF/ernstg_ZF_Fertigungstechnik/main.tex
+INPUT /Users/gmernst/Documents/ETH/HS24/Fertigungstechnik/ZF/Fertigungstechnik_Bambach_2024/main.tex
 OUTPUT main.log
 INPUT ./cheatsheet.cls
 INPUT cheatsheet.cls
