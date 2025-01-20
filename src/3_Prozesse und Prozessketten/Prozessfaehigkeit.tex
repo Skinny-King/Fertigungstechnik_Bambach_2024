@@ -1,0 +1,33 @@
+\textbf{Prozessfähigkeitsindex $C_p$:} 
+\begin{itemize}
+    \item Verhältnis der Toleranzbreite zur Streuung der Prozesswerte
+    \item Ignoriert Lage der Prozesswerte
+    \item Kann der Prozess innerhalb der Toleranzen bleiben, wenn er perfekt zentriert ist?
+\end{itemize}
+\hspace{0.05\linewidth}
+\vfill \null \columnbreak
+
+\textbf{Prozessfähigkeitsindex mit Lagekorrektur $C_{pk}$:}
+\begin{itemize}
+    \item Berücksichtigt auch die Lage der Prozesswerte
+    \item Tatsächliche Prozessfähigkeit
+    \item Wie gut arbeitet der Prozess tatsächlich?
+\end{itemize}
+\hspace{0.05\linewidth}
+
+\begin{center}
+    $C_p = \frac{OTG - UTG}{6\sigma}$ \hspace{1cm}
+    $C_{pk} = \frac{\min\left(OTG - \mu, \mu - UTG\right)}{3\sigma}$
+\end{center}
+\hspace{0.05\linewidth}
+
+\begin{minipage}{0.7\linewidth
+    }
+    \begin{itemize}
+        \item $C < 1 $: Prozess kann Spezifikationen nicht erfüllen
+        \item $C = 1 $: Prozess bedingt geeinget
+        \item $C > 1 $: Prozess kann Spezifikationen erfüllen
+    \end{itemize}
+\end{minipage}
+\vspace{1mm}
+\hspace{0.05\linewidth}

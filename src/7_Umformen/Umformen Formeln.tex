@@ -1,0 +1,128 @@
+\textbf{Biegelinie (einer Walze):}\\
+\begin{minipage}{0.5\linewidth}
+    \[
+    \boxed{      
+        \begin{aligned}
+            \omega &= \frac{5 \cdot F \cdot b^4}{384 \cdot E \cdot I}\\
+            I &= \frac{\pi  \cdot D^4}{64}
+        \end{aligned}
+    }
+    \]
+\end{minipage}
+\begin{minipage}{0.5\linewidth}
+    \item $\omega$: Biegelinie
+    \item $F$: Streckenlast
+    \item $b$: Blechbreite
+    \item $I$: Flächenträgheitsmoment
+    \item $D$: Walzendurchmesser
+\end{minipage}
+\vspace{1mm}
+
+\textbf{Zipfelbildung:}\\
+\[
+\boxed{      
+    \begin{aligned}
+        \Delta r &= \frac{1}{2}\cdot(r_0^\circ - 2\cdot r_{45}^\circ + r_{90}^\circ)\\
+        &= 2\cdot(\bar{r} - r_{45}^\circ)
+    \end{aligned}
+}
+\]
+
+$\Delta r > 0$: Zipfel in $0^\circ$ und $90^\circ$-Richtung\\
+$\Delta r < 0$: Zipfel in den beiden Diagonalrichtungen\\
+\vfill \null \columnbreak
+
+
+\textbf{Wahre Dehnung/Spannung/Querschnitt:}\\
+\begin{minipage}{0.5\linewidth}
+    \[
+    \boxed{
+        \begin{aligned}
+            \sigma_{w} &= \sigma \left(1 + \frac{\Delta L}{L_0} \right)\\ 
+            &= \sigma (1 + \epsilon)\\
+            \vspace{1mm}\\
+            \varepsilon_w &= \ln \left(\frac{L_1}{L_0} \right)\\
+            &= \ln \left(1\frac{\Delta L + L_0}{L_0} \right)\\
+            &= \ln (1 +\varepsilon)\\
+            \vspace{1mm}\\
+            A &= A_0 \cdot e^{-\varepsilon_1}\\
+            \vspace{1mm}\\
+            &\text{Volumenkonstanz}:\\
+            \varepsilon_1 &+ \varepsilon_2 + \varepsilon_3 = 0
+        \end{aligned}
+    }
+    \]
+\end{minipage}
+\begin{minipage}{0.5\linewidth}
+    \item $\sigma_{w}$: Wahre Spannung
+    \item $\sigma$: Technische Spannung
+    \item $\Delta L$: Längenänderung
+    \item $L_0$: Anfangslänge
+    \item $L_1$: Endlänge
+    \item $\varepsilon$: Wahre Dehnung
+    \item $\varepsilon$: Technische Dehnung
+    \item $A$: Querschnitt
+    \item $A_0$: Anfangsquerschnitt
+    \item $\varepsilon_1$: Dehnung in x-Richtung
+\end{minipage}
+\vspace{1mm}
+
+\begin{minipage}{0.5\linewidth}
+    \[
+    \boxed{        
+            E = \frac{\sigma}{\varepsilon}
+    }
+    \]
+\end{minipage}
+\begin{minipage}{0.5\linewidth}
+    \item $E$: E-Modul
+\end{minipage}
+\vspace{1mm}
+
+\textbf{Vergleichsspannug Mises: }\\
+\begin{tiny}
+    \begin{center}
+        
+    \[
+    \boxed{      
+        \begin{aligned}
+            \sigma_V =& (\frac{1}{2}[(\sigma_x - \sigma_y)^2 + (\sigma_y - \sigma_z)^2 + (\sigma_z - \sigma_x)^2]\\
+            &+\underbrace{6(\tau_{xy}^2 + \tau_{yz}^2 +\tau_{xz}^2)}_{\text{0 falls eben. Sp.zs.}})^{0.5}
+        \end{aligned}
+    }
+    \]
+\end{center}
+\end{tiny}
+\vspace{1mm}
+
+\textbf{Vergleichsspannug Hill'48} (Nur in ebenem Spannungszutand)\textbf{: }\\
+\begin{tiny}
+    \[
+    \boxed{      
+        \begin{aligned}
+            \sigma_V &= \sqrt{G \cdot \sigma_{xx}^2 + F \cdot \sigma_{yy}^2 + H \cdot (\sigma_{xx} - \sigma_{yy})^2 + 2 \cdot N \cdot \sigma_{xy}^2}\\
+                    \end{aligned}
+    }
+    \]
+\end{tiny}
+\begin{minipage}{0.5\linewidth}
+    \begin{tiny}
+        \[
+        \boxed{      
+            \begin{aligned}
+                G &= \frac{1}{1 + r_0^\circ}\\
+                F &= \frac{r_0^\circ}{r_{90}^\circ \cdot (1 + r_0^\circ)}\\
+                H &= \frac{r_0^\circ}{1 + r_0^\circ}\\
+                N &= \frac{(r_0^\circ +r_{90}^\circ)\cdot(1+2r_{45}^\circ)}{2\cdot r_{90}^\circ\cdot(1+r_0^\circ)}
+            \end{aligned}
+        }
+        \]
+    \end{tiny}
+\end{minipage}
+\begin{minipage}{0.5\linewidth}
+    \item $r_0^\circ$: Anisotropiekoeff. $||$ zur Walzrichtung
+    \item $r_{90}^\circ$: Anisotropiekoeff. $90^\circ$ zur Walzrichtung
+    \item $r_{45}^\circ$: Anisotropiekoeff. $45^\circ$ zur Walzrichtung
+\end{minipage}
+\vspace{1mm}
+
