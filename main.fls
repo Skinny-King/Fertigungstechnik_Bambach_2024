@@ -283,6 +283,11 @@ INPUT src/3_Prozesse und Prozessketten/Gestaltabweichungen.tex
 INPUT ./src/4_Simulation/Simulation.tex
 INPUT ./src/4_Simulation/Simulation.tex
 INPUT src/4_Simulation/Simulation.tex
+INPUT ./src/images/Genauigkeiten.png
+INPUT ./src/images/Genauigkeiten.png
+INPUT ./src/images/Genauigkeiten.png
+INPUT ./src/images/Genauigkeiten.png
+INPUT ./src/images/Genauigkeiten.png
 INPUT ./src/5_Urformen/Giesssystem.tex
 INPUT ./src/5_Urformen/Giesssystem.tex
 INPUT src/5_Urformen/Giesssystem.tex
@@ -412,6 +417,11 @@ INPUT ./src/images/Kreisli.png
 INPUT ./src/images/Kreisli.png
 INPUT ./src/images/Kreisli.png
 INPUT ./src/images/Kreisli.png
+INPUT ./src/images/Energieaufwand.png
+INPUT ./src/images/Energieaufwand.png
+INPUT ./src/images/Energieaufwand.png
+INPUT ./src/images/Energieaufwand.png
+INPUT ./src/images/Energieaufwand.png
 INPUT ./src/6_Pulvermetallurgie/Pulver Eigenschaften.tex
 INPUT ./src/6_Pulvermetallurgie/Pulver Eigenschaften.tex
 INPUT src/6_Pulvermetallurgie/Pulver Eigenschaften.tex
@@ -624,6 +634,11 @@ INPUT ./src/images/Schäfflerdiagramm.png
 INPUT ./src/images/Schäfflerdiagramm.png
 INPUT ./src/images/Schäfflerdiagramm.png
 INPUT ./src/images/Schäfflerdiagramm.png
+INPUT ./src/images/Schweissnähte.jpeg
+INPUT ./src/images/Schweissnähte.jpeg
+INPUT ./src/images/Schweissnähte.jpeg
+INPUT ./src/images/Schweissnähte.jpeg
+INPUT ./src/images/Schweissnähte.jpeg
 INPUT ./src/9_Fügen/Löten.tex
 INPUT ./src/9_Fügen/Löten.tex
 INPUT src/9_Fügen/Löten.tex

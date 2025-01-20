@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.12)  20 JAN 2025 13:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.12)  20 JAN 2025 16:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -736,8 +736,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 67--68
 []\OT1/cmss/m/n/7 Gut bei Nicht-lin-
  []
 
+<src/images/Genauigkeiten.png, id=19, 1002.74625pt x 585.18625pt>
+File: src/images/Genauigkeiten.png Graphic file (type png)
+<use src/images/Genauigkeiten.png>
+Package pdftex.def Info: src/images/Genauigkeiten.png  used on input line 81.
+(pdftex.def)             Requested size: 183.92458pt x 107.32912pt.
 ) (./src/5_Urformen/Giesssystem.tex
-<src/images/Giesssystem.png, id=19, 460.72125pt x 266.9975pt>
+<src/images/Giesssystem.png, id=20, 460.72125pt x 266.9975pt>
 File: src/images/Giesssystem.png Graphic file (type png)
 <use src/images/Giesssystem.png>
 Package pdftex.def Info: src/images/Giesssystem.png  used on input line 3.
@@ -768,13 +773,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--16
  []
 
 )
-Overfull \hbox (1.6528pt too wide) in paragraph at lines 2--43
+Overfull \hbox (1.6528pt too wide) in paragraph at lines 2--41
 []$[]$ $[]$
  []
 
 [1
 
-{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./src/images/rauheiten.png> <./src/images/lagetoleranzen.png>] (./src/5_Urformen/Verlorene Formen.tex
+{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./src/images/rauheiten.png> <./src/images/lagetoleranzen.png> <./src/images/Genauigkeiten.png>] (./src/5_Urformen/Verlorene Formen.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
@@ -795,12 +800,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--8
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 9--47
+Underfull \hbox (badness 10000) in paragraph at lines 9--45
 
  []
 
 (./src/5_Urformen/Gusseisen.tex
-<src/images/Gusseisen.png, id=53, 649.42625pt x 271.0125pt>
+<src/images/Gusseisen.png, id=55, 649.42625pt x 271.0125pt>
 File: src/images/Gusseisen.png Graphic file (type png)
 <use src/images/Gusseisen.png>
 Package pdftex.def Info: src/images/Gusseisen.png  used on input line 1.
@@ -821,7 +826,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 8--49
+Underfull \hbox (badness 10000) in paragraph at lines 8--47
 
  []
 
@@ -831,13 +836,13 @@ Overfull \hbox (1.18057pt too wide) in paragraph at lines 2--21
  []
 
 ) (./src/5_Urformen/Exogene Erstarrung.tex
-<src/images/Exogene Erstarrung.png, id=54, 524.96124pt x 124.465pt>
+<src/images/Exogene Erstarrung.png, id=56, 524.96124pt x 124.465pt>
 File: src/images/Exogene Erstarrung.png Graphic file (type png)
 <use src/images/Exogene Erstarrung.png>
 Package pdftex.def Info: src/images/Exogene Erstarrung.png  used on input line 2.
 (pdftex.def)             Requested size: 113.81102pt x 26.98355pt.
 ) (./src/5_Urformen/Endogene Erstarrung.tex
-<src/images/Endogene Erstarrung.png, id=55, 353.32pt x 122.4575pt>
+<src/images/Endogene Erstarrung.png, id=57, 353.32pt x 122.4575pt>
 File: src/images/Endogene Erstarrung.png Graphic file (type png)
 <use src/images/Endogene Erstarrung.png>
 Package pdftex.def Info: src/images/Endogene Erstarrung.png  used on input line 2.
@@ -848,7 +853,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--7
  []
 
 ) (./src/5_Urformen/Erstarrungsmodelle.tex
-<src/images/Tiegel.png, id=56, 622.325pt x 224.84pt>
+<src/images/Tiegel.png, id=58, 622.325pt x 224.84pt>
 File: src/images/Tiegel.png Graphic file (type png)
 <use src/images/Tiegel.png>
 Package pdftex.def Info: src/images/Tiegel.png  used on input line 1.
@@ -859,23 +864,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--3
  []
 
 ) (./src/5_Urformen/Diffusion.tex
-<src/images/Diffusion1.png, id=57, 818.05624pt x 490.83376pt>
+<src/images/Diffusion1.png, id=59, 818.05624pt x 490.83376pt>
 File: src/images/Diffusion1.png Graphic file (type png)
 <use src/images/Diffusion1.png>
 Package pdftex.def Info: src/images/Diffusion1.png  used on input line 1.
 (pdftex.def)             Requested size: 199.16928pt x 119.50262pt.
-<src/images/Diffusion2.png, id=58, 425.59pt x 354.32375pt>
+<src/images/Diffusion2.png, id=60, 425.59pt x 354.32375pt>
 File: src/images/Diffusion2.png Graphic file (type png)
 <use src/images/Diffusion2.png>
 Package pdftex.def Info: src/images/Diffusion2.png  used on input line 4.
 (pdftex.def)             Requested size: 142.26378pt x 118.44102pt.
 ) (./src/5_Urformen/Keimbildung.tex
-<src/images/Homogen.png, id=59, 271.0125pt x 239.89626pt>
+<src/images/Homogen.png, id=61, 271.0125pt x 239.89626pt>
 File: src/images/Homogen.png Graphic file (type png)
 <use src/images/Homogen.png>
 Package pdftex.def Info: src/images/Homogen.png  used on input line 2.
 (pdftex.def)             Requested size: 99.58464pt x 88.14891pt.
-<src/images/Heterogen.png, id=60, 297.11pt x 235.88126pt>
+<src/images/Heterogen.png, id=62, 297.11pt x 235.88126pt>
 File: src/images/Heterogen.png Graphic file (type png)
 <use src/images/Heterogen.png>
 Package pdftex.def Info: src/images/Heterogen.png  used on input line 5.
@@ -886,17 +891,17 @@ Overfull \hbox (1.6528pt too wide) in paragraph at lines 1--7
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 9--61
+Underfull \hbox (badness 10000) in paragraph at lines 9--59
 
  []
 
 (./src/5_Urformen/Thermo.tex
-<src/images/Thermo_Erstarrung.png, id=61, 469.755pt x 432.61626pt>
+<src/images/Thermo_Erstarrung.png, id=63, 469.755pt x 432.61626pt>
 File: src/images/Thermo_Erstarrung.png Graphic file (type png)
 <use src/images/Thermo_Erstarrung.png>
 Package pdftex.def Info: src/images/Thermo_Erstarrung.png  used on input line 3.
 (pdftex.def)             Requested size: 99.58464pt x 91.71025pt.
-<src/images/Embryo_vs_Keim.png, id=62, 400.49625pt x 362.35374pt>
+<src/images/Embryo_vs_Keim.png, id=64, 400.49625pt x 362.35374pt>
 File: src/images/Embryo_vs_Keim.png Graphic file (type png)
 <use src/images/Embryo_vs_Keim.png>
 Package pdftex.def Info: src/images/Embryo_vs_Keim.png  used on input line 7.
@@ -937,18 +942,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 69--70
  []
 
 ) (./src/5_Urformen/Mechanischen Eigenschaften und Abkühlrate.tex
-<src/images/Abkühlrate1.png, id=63, 232.87pt x 158.5925pt>
+<src/images/Abkühlrate1.png, id=65, 232.87pt x 158.5925pt>
 File: src/images/Abkühlrate1.png Graphic file (type png)
 <use src/images/Abkühlrate1.png>
 Package pdftex.def Info: src/images/Abkühlrate1.png  used on input line 2.
 (pdftex.def)             Requested size: 99.58464pt x 67.82076pt.
-<src/images/Abkühlrate2.png, id=64, 232.87pt x 158.5925pt>
+<src/images/Abkühlrate2.png, id=66, 232.87pt x 158.5925pt>
 File: src/images/Abkühlrate2.png Graphic file (type png)
 <use src/images/Abkühlrate2.png>
 Package pdftex.def Info: src/images/Abkühlrate2.png  used on input line 5.
 (pdftex.def)             Requested size: 99.58464pt x 67.82076pt.
 )
-Overfull \hbox (1.6528pt too wide) in paragraph at lines 1--65
+Overfull \hbox (1.6528pt too wide) in paragraph at lines 1--63
 []$[]$ $[]$
  []
 
@@ -963,12 +968,12 @@ Overfull \hbox (1.65279pt too wide) in paragraph at lines 15--28
  []
 
 )
-Overfull \hbox (1.65279pt too wide) in paragraph at lines 29--67
+Overfull \hbox (1.65279pt too wide) in paragraph at lines 29--65
 []$[]$ $[]$
  []
 
 (./src/5_Urformen/Eisenkohl.diagr.tex
-<src/images/Eisenkohlenstoffdiagramm.png, id=65, 1011.78pt x 863.225pt>
+<src/images/Eisenkohlenstoffdiagramm.png, id=67, 1011.78pt x 863.225pt>
 File: src/images/Eisenkohlenstoffdiagramm.png Graphic file (type png)
 <use src/images/Eisenkohlenstoffdiagramm.png>
 Package pdftex.def Info: src/images/Eisenkohlenstoffdiagramm.png  used on input line 1.
@@ -1013,12 +1018,12 @@ Overfull \hbox (3.6953pt too wide) in paragraph at lines 1--16
 []$ $[]$ 
  []
 
-<src/images/Hebelgesetz.jpeg, id=66, 1018.80624pt x 813.0375pt>
+<src/images/Hebelgesetz.jpeg, id=68, 1018.80624pt x 813.0375pt>
 File: src/images/Hebelgesetz.jpeg Graphic file (type jpg)
 <use src/images/Hebelgesetz.jpeg>
 Package pdftex.def Info: src/images/Hebelgesetz.jpeg  used on input line 17.
 (pdftex.def)             Requested size: 199.16928pt x 158.93246pt.
-<src/images/Kreisli.png, id=67, 765.86125pt x 559.08875pt>
+<src/images/Kreisli.png, id=69, 765.86125pt x 559.08875pt>
 File: src/images/Kreisli.png Graphic file (type png)
 <use src/images/Kreisli.png>
 Package pdftex.def Info: src/images/Kreisli.png  used on input line 20.
@@ -1033,14 +1038,19 @@ Overfull \hbox (1.65279pt too wide) in paragraph at lines 19--30
 []$[]$ $[]$ 
  []
 
+<src/images/Energieaufwand.png, id=70, 917.4275pt x 520.94624pt>
+File: src/images/Energieaufwand.png Graphic file (type png)
+<use src/images/Energieaufwand.png>
+Package pdftex.def Info: src/images/Energieaufwand.png  used on input line 31.
+(pdftex.def)             Requested size: 122.61845pt x 69.6252pt.
 ) (./src/6_Pulvermetallurgie/Pulver Eigenschaften.tex) (./src/6_Pulvermetallurgie/Pulverherstellung.tex
-<src/images/Pulverherstellung.png, id=68, 897.3525pt x 435.6275pt>
+<src/images/Pulverherstellung.png, id=71, 897.3525pt x 435.6275pt>
 File: src/images/Pulverherstellung.png Graphic file (type png)
 <use src/images/Pulverherstellung.png>
 Package pdftex.def Info: src/images/Pulverherstellung.png  used on input line 1.
 (pdftex.def)             Requested size: 199.16928pt x 96.68253pt.
- [2 <./src/images/Giesssystem.png> <./src/images/Gusseisen.png> <./src/images/Exogene Erstarrung.png> <./src/images/Endogene Erstarrung.png> <./src/images/Tiegel.png> <./src/images/Diffusion1.png> <./src/images/Diffusion2.png> <./src/images/Homogen.png> <./src/images/Heterogen.png> <./src/images/Thermo_Erstarrung.png> <./src/images/Embryo_vs_Keim.png> <./src/images/Abkühlrate1.png> <./src/images/Abkühlrate2.png> <./src/images/Eisenkohlenstoffdiagramm.png> <./src/images/Hebelgesetz.jpeg> <./src/images/Kreisli.png>]
-<src/images/Verdüsen.png, id=104, 473.77pt x 181.67876pt>
+ [2 <./src/images/Giesssystem.png> <./src/images/Gusseisen.png> <./src/images/Exogene Erstarrung.png> <./src/images/Endogene Erstarrung.png> <./src/images/Tiegel.png> <./src/images/Diffusion1.png> <./src/images/Diffusion2.png> <./src/images/Homogen.png> <./src/images/Heterogen.png> <./src/images/Thermo_Erstarrung.png> <./src/images/Embryo_vs_Keim.png> <./src/images/Abkühlrate1.png> <./src/images/Abkühlrate2.png> <./src/images/Eisenkohlenstoffdiagramm.png> <./src/images/Hebelgesetz.jpeg> <./src/images/Kreisli.png> <./src/images/Energieaufwand.png>]
+<src/images/Verdüsen.png, id=108, 473.77pt x 181.67876pt>
 File: src/images/Verdüsen.png Graphic file (type png)
 <use src/images/Verdüsen.png>
 Package pdftex.def Info: src/images/Verdüsen.png  used on input line 3.
@@ -1055,7 +1065,7 @@ Overfull \hbox (1.6528pt too wide) in paragraph at lines 3--23
 []$ $[]$ 
  []
 
-<src/images/Schleudern:Elektrolytisch.png, id=105, 473.77pt x 181.67876pt>
+<src/images/Schleudern:Elektrolytisch.png, id=109, 473.77pt x 181.67876pt>
 File: src/images/Schleudern:Elektrolytisch.png Graphic file (type png)
 <use src/images/Schleudern:Elektrolytisch.png>
 Package pdftex.def Info: src/images/Schleudern:Elektrolytisch.png  used on input line 24.
@@ -1081,7 +1091,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--18
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 19--78
+Underfull \hbox (badness 10000) in paragraph at lines 19--74
 
  []
 
@@ -1090,17 +1100,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--9
 
  []
 
-<src/images/Sintern.png, id=106, 542.025pt x 428.60126pt>
+<src/images/Sintern.png, id=110, 542.025pt x 428.60126pt>
 File: src/images/Sintern.png Graphic file (type png)
 <use src/images/Sintern.png>
 Package pdftex.def Info: src/images/Sintern.png  used on input line 10.
 (pdftex.def)             Requested size: 122.61845pt x 96.95432pt.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 10--81
-
- []
-
-(./src/6_Pulvermetallurgie/Pulver Formeln.tex
+) (./src/6_Pulvermetallurgie/Pulver Formeln.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
@@ -1181,7 +1186,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--114
  []
 
 )
-Overfull \hbox (1.6528pt too wide) in paragraph at lines 115--83
+Overfull \hbox (1.6528pt too wide) in paragraph at lines 115--79
 []$[]$ $[]$
  []
 
@@ -1236,23 +1241,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--2
  []
 
 )
-Overfull \hbox (1.6528pt too wide) in paragraph at lines 3--88
+Overfull \hbox (1.6528pt too wide) in paragraph at lines 3--84
 []$ $[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 3--88
+Underfull \hbox (badness 10000) in paragraph at lines 3--84
 
  []
 
 (./src/7_Umformen/Tiefziehen.tex
-<src/images/Tiefziehen.png, id=107, 977.6525pt x 356.33125pt>
+<src/images/Tiefziehen.png, id=111, 977.6525pt x 356.33125pt>
 File: src/images/Tiefziehen.png Graphic file (type png)
 <use src/images/Tiefziehen.png>
 Package pdftex.def Info: src/images/Tiefziehen.png  used on input line 1.
 (pdftex.def)             Requested size: 199.16928pt x 72.59164pt.
 )
-Overfull \hbox (1.6528pt too wide) in paragraph at lines 6--91
+Overfull \hbox (1.6528pt too wide) in paragraph at lines 6--87
 []$[]$ $[]$
  []
 
@@ -1266,23 +1271,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
  []
 
-<src/images/Warmblechumformung.png, id=108, 603.25375pt x 367.3725pt>
+<src/images/Warmblechumformung.png, id=112, 603.25375pt x 367.3725pt>
 File: src/images/Warmblechumformung.png Graphic file (type png)
 <use src/images/Warmblechumformung.png>
 Package pdftex.def Info: src/images/Warmblechumformung.png  used on input line 9.
 (pdftex.def)             Requested size: 106.26764pt x 64.71156pt.
 )
-Overfull \hbox (30.26334pt too wide) in paragraph at lines 7--93
+Overfull \hbox (30.26334pt too wide) in paragraph at lines 7--89
 []$ $[]$
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--93
+Underfull \hbox (badness 10000) in paragraph at lines 7--89
 
  []
 
 (./src/7_Umformen/Strecken und Biegen.tex
-<src/images/Strecken.png, id=109, 365.365pt x 176.66pt>
+<src/images/Strecken.png, id=113, 365.365pt x 176.66pt>
 File: src/images/Strecken.png Graphic file (type png)
 <use src/images/Strecken.png>
 Package pdftex.def Info: src/images/Strecken.png  used on input line 2.
@@ -1292,7 +1297,7 @@ Overfull \hbox (13.67252pt too wide) in paragraph at lines 2--3
 [][] 
  []
 
-<src/images/Biegen.png, id=110, 263.48438pt x 168.63pt>
+<src/images/Biegen.png, id=114, 263.48438pt x 168.63pt>
 File: src/images/Biegen.png Graphic file (type png)
 <use src/images/Biegen.png>
 Package pdftex.def Info: src/images/Biegen.png  used on input line 5.
@@ -1303,12 +1308,12 @@ Overfull \hbox (13.67252pt too wide) in paragraph at lines 5--6
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 1--95
+Underfull \hbox (badness 10000) in paragraph at lines 1--91
 
  []
 
 (./src/7_Umformen/Walzen.tex
-<src/images/Walzen.png, id=111, 367.3725pt x 251.94125pt>
+<src/images/Walzen.png, id=115, 367.3725pt x 251.94125pt>
 File: src/images/Walzen.png Graphic file (type png)
 <use src/images/Walzen.png>
 Package pdftex.def Info: src/images/Walzen.png  used on input line 1.
@@ -1324,22 +1329,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--8
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 10--97
+Underfull \hbox (badness 10000) in paragraph at lines 10--93
 
  []
 
-<src/images/Walzfehler.png, id=112, 694.09312pt x 187.70125pt>
+<src/images/Walzfehler.png, id=116, 694.09312pt x 187.70125pt>
 File: src/images/Walzfehler.png Graphic file (type png)
 <use src/images/Walzfehler.png>
-Package pdftex.def Info: src/images/Walzfehler.png  used on input line 98.
+Package pdftex.def Info: src/images/Walzfehler.png  used on input line 94.
 (pdftex.def)             Requested size: 199.16928pt x 53.85915pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--99
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
 
  []
 
 [3 <./src/images/Pulverherstellung.png> <./src/images/Verdüsen.png> <./src/images/Schleudern:Elektrolytisch.png> <./src/images/Sintern.png> <./src/images/Tiefziehen.png> <./src/images/Warmblechumformung.png> <./src/images/Strecken.png> <./src/images/Biegen.png> <./src/images/Walzen.png>] (./src/7_Umformen/Gesenkschmieden.tex
-<src/images/Gesenkschmieden.png, id=139, 214.8025pt x 296.10625pt>
+<src/images/Gesenkschmieden.png, id=143, 214.8025pt x 296.10625pt>
 File: src/images/Gesenkschmieden.png Graphic file (type png)
 <use src/images/Gesenkschmieden.png>
 Package pdftex.def Info: src/images/Gesenkschmieden.png  used on input line 2.
@@ -1380,7 +1385,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--12
  []
 
 ) (./src/7_Umformen/Isotropie.tex
-<src/images/Isotropie.png, id=140, 561.09625pt x 467.7475pt>
+<src/images/Isotropie.png, id=144, 561.09625pt x 467.7475pt>
 File: src/images/Isotropie.png Graphic file (type png)
 <use src/images/Isotropie.png>
 Package pdftex.def Info: src/images/Isotropie.png  used on input line 2.
@@ -1406,7 +1411,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--22
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 23--103
+Underfull \hbox (badness 10000) in paragraph at lines 23--99
 
  []
 
@@ -1466,12 +1471,12 @@ Overfull \hbox (1.6528pt too wide) in paragraph at lines 6--20
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 21--109
+Underfull \hbox (badness 10000) in paragraph at lines 21--105
 
  []
 
 (./src/8_Trennen/Scherschneiden.tex
-<src/images/Stanzen.jpeg, id=141, 731.73375pt x 505.89pt>
+<src/images/Stanzen.jpeg, id=145, 731.73375pt x 505.89pt>
 File: src/images/Stanzen.jpeg Graphic file (type jpg)
 <use src/images/Stanzen.jpeg>
 Package pdftex.def Info: src/images/Stanzen.jpeg  used on input line 1.
@@ -1486,13 +1491,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--12
 
  []
 
-<src/images/Masse Stanzen.jpeg, id=142, 999.735pt x 809.0225pt>
+<src/images/Masse Stanzen.jpeg, id=146, 999.735pt x 809.0225pt>
 File: src/images/Masse Stanzen.jpeg Graphic file (type jpg)
 <use src/images/Masse Stanzen.jpeg>
 Package pdftex.def Info: src/images/Masse Stanzen.jpeg  used on input line 19.
 (pdftex.def)             Requested size: 204.36203pt x 165.36925pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 13--112
+Underfull \hbox (badness 10000) in paragraph at lines 13--108
 
  []
 
@@ -1511,7 +1516,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 16--19
 
  []
 
-<src/images/Spanen.jpeg, id=143, 1235.61626pt x 761.84625pt>
+<src/images/Spanen.jpeg, id=147, 1235.61626pt x 761.84625pt>
 File: src/images/Spanen.jpeg Graphic file (type jpg)
 <use src/images/Spanen.jpeg>
 Package pdftex.def Info: src/images/Spanen.jpeg  used on input line 20.
@@ -1522,17 +1527,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--25
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 26--114
+Underfull \hbox (badness 10000) in paragraph at lines 26--110
 
  []
 
 (./src/8_Trennen/Drehen.tex
-<src/images/Zerspanvorgang1.png, id=144, 410.53375pt x 252.945pt>
+<src/images/Zerspanvorgang1.png, id=148, 410.53375pt x 252.945pt>
 File: src/images/Zerspanvorgang1.png Graphic file (type png)
 <use src/images/Zerspanvorgang1.png>
 Package pdftex.def Info: src/images/Zerspanvorgang1.png  used on input line 1.
 (pdftex.def)             Requested size: 99.58464pt x 61.35645pt.
-<src/images/Zerspanvorgang2.png, id=145, 532.99126pt x 402.50375pt>
+<src/images/Zerspanvorgang2.png, id=149, 532.99126pt x 402.50375pt>
 File: src/images/Zerspanvorgang2.png Graphic file (type png)
 <use src/images/Zerspanvorgang2.png>
 Package pdftex.def Info: src/images/Zerspanvorgang2.png  used on input line 2.
@@ -1547,7 +1552,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
-<src/images/Kinematische Rauheit.jpeg, id=146, 1062.97125pt x 463.7325pt>
+<src/images/Kinematische Rauheit.jpeg, id=150, 1062.97125pt x 463.7325pt>
 File: src/images/Kinematische Rauheit.jpeg Graphic file (type jpg)
 <use src/images/Kinematische Rauheit.jpeg>
 Package pdftex.def Info: src/images/Kinematische Rauheit.jpeg  used on input line 12.
@@ -1562,7 +1567,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--15
 
  []
 
-<src/images/Winkel Drehen.png, id=147, 502.87875pt x 447.6725pt>
+<src/images/Winkel Drehen.png, id=151, 502.87875pt x 447.6725pt>
 File: src/images/Winkel Drehen.png Graphic file (type png)
 <use src/images/Winkel Drehen.png>
 Package pdftex.def Info: src/images/Winkel Drehen.png  used on input line 25.
@@ -1603,12 +1608,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--68
  []
 
 [4 <./src/images/Walzfehler.png> <./src/images/Gesenkschmieden.png> <./src/images/Isotropie.png> <./src/images/Stanzen.jpeg> <./src/images/Masse Stanzen.jpeg> <./src/images/Spanen.jpeg> <./src/images/Zerspanvorgang1.png> <./src/images/Zerspanvorgang2.png> <./src/images/Kinematische Rauheit.jpeg> <./src/images/Winkel Drehen.png>]
-<src/images/Trennen Diagramme1.jpeg, id=167, 1032.85875pt x 444.66125pt>
+<src/images/Trennen Diagramme1.jpeg, id=171, 1032.85875pt x 444.66125pt>
 File: src/images/Trennen Diagramme1.jpeg Graphic file (type jpg)
 <use src/images/Trennen Diagramme1.jpeg>
 Package pdftex.def Info: src/images/Trennen Diagramme1.jpeg  used on input line 69.
 (pdftex.def)             Requested size: 99.58464pt x 42.86746pt.
-<src/images/Trennen Diagramme2.jpeg, id=168, 1032.85875pt x 446.66875pt>
+<src/images/Trennen Diagramme2.jpeg, id=172, 1032.85875pt x 446.66875pt>
 File: src/images/Trennen Diagramme2.jpeg Graphic file (type jpg)
 <use src/images/Trennen Diagramme2.jpeg>
 Package pdftex.def Info: src/images/Trennen Diagramme2.jpeg  used on input line 70.
@@ -1624,7 +1629,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--2
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 3--118
+Underfull \hbox (badness 10000) in paragraph at lines 3--114
 
  []
 
@@ -1638,12 +1643,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-<src/images/Verschleiss1.jpeg, id=169, 823.075pt x 295.1025pt>
+<src/images/Verschleiss1.jpeg, id=173, 823.075pt x 295.1025pt>
 File: src/images/Verschleiss1.jpeg Graphic file (type jpg)
 <use src/images/Verschleiss1.jpeg>
 Package pdftex.def Info: src/images/Verschleiss1.jpeg  used on input line 5.
 (pdftex.def)             Requested size: 102.18102pt x 36.63554pt.
-<src/images/Verschleiss2.jpeg, id=170, 823.075pt x 293.095pt>
+<src/images/Verschleiss2.jpeg, id=174, 823.075pt x 293.095pt>
 File: src/images/Verschleiss2.jpeg Graphic file (type jpg)
 <use src/images/Verschleiss2.jpeg>
 Package pdftex.def Info: src/images/Verschleiss2.jpeg  used on input line 6.
@@ -1688,7 +1693,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--4
 
  []
 
-<src/images/WIG.jpeg, id=171, 1291.82625pt x 656.4525pt>
+<src/images/WIG.jpeg, id=175, 1291.82625pt x 656.4525pt>
 File: src/images/WIG.jpeg Graphic file (type jpg)
 <use src/images/WIG.jpeg>
 Package pdftex.def Info: src/images/WIG.jpeg  used on input line 9.
@@ -1698,7 +1703,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
-<src/images/MSG.png, id=172, 412.54124pt x 288.07625pt>
+<src/images/MSG.png, id=176, 412.54124pt x 288.07625pt>
 File: src/images/MSG.png Graphic file (type png)
 <use src/images/MSG.png>
 Package pdftex.def Info: src/images/MSG.png  used on input line 15.
@@ -1723,7 +1728,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--24
 
  []
 
-<src/images/WP.jpeg, id=173, 1539.7525pt x 773.89125pt>
+<src/images/WP.jpeg, id=177, 1539.7525pt x 773.89125pt>
 File: src/images/WP.jpeg Graphic file (type jpg)
 <use src/images/WP.jpeg>
 Package pdftex.def Info: src/images/WP.jpeg  used on input line 26.
@@ -1749,96 +1754,111 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--44
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 45--46
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
 
-<src/images/Schweissnaht.png, id=174, 223.83624pt x 148.555pt>
+<src/images/Schweissnaht.png, id=178, 223.83624pt x 148.555pt>
 File: src/images/Schweissnaht.png Graphic file (type png)
 <use src/images/Schweissnaht.png>
-Package pdftex.def Info: src/images/Schweissnaht.png  used on input line 49.
+Package pdftex.def Info: src/images/Schweissnaht.png  used on input line 50.
 (pdftex.def)             Requested size: 89.92012pt x 59.67935pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--62
+Underfull \hbox (badness 10000) in paragraph at lines 49--63
 
  []
 
-<src/images/Reibschweissen.jpeg, id=175, 1267.73625pt x 514.92375pt>
+<src/images/Reibschweissen.jpeg, id=179, 1267.73625pt x 514.92375pt>
 File: src/images/Reibschweissen.jpeg Graphic file (type jpg)
 <use src/images/Reibschweissen.jpeg>
-Package pdftex.def Info: src/images/Reibschweissen.jpeg  used on input line 64.
+Package pdftex.def Info: src/images/Reibschweissen.jpeg  used on input line 65.
 (pdftex.def)             Requested size: 204.36203pt x 83.00233pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--65
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--68
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
 \OT1/cmss/m/n/7 Breite und Dicke der Schweiss-naht nimmt mit der
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--68
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
 
  []
 
 
-Overfull \hbox (1.6528pt too wide) in paragraph at lines 69--88
+Overfull \hbox (1.6528pt too wide) in paragraph at lines 70--89
 []$ $[]$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--88
+Underfull \hbox (badness 10000) in paragraph at lines 70--89
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--90
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
 
 
-Overfull \hbox (1.6528pt too wide) in paragraph at lines 91--111
+Overfull \hbox (1.6528pt too wide) in paragraph at lines 92--112
 []$[]$ $[]$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--123
+Underfull \hbox (badness 10000) in paragraph at lines 120--124
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 131--132
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
 
  []
 
-<src/images/Schäfflerdiagramm.png, id=176, 371.3875pt x 308.15125pt>
+<src/images/Schäfflerdiagramm.png, id=180, 371.3875pt x 308.15125pt>
 File: src/images/Schäfflerdiagramm.png Graphic file (type png)
 <use src/images/Schäfflerdiagramm.png>
-Package pdftex.def Info: src/images/Schäfflerdiagramm.png  used on input line 138.
+Package pdftex.def Info: src/images/Schäfflerdiagramm.png  used on input line 139.
 (pdftex.def)             Requested size: 102.18102pt x 84.78181pt.
+<src/images/Schweissnähte.jpeg, id=181, 856.19875pt x 516.93124pt>
+File: src/images/Schweissnähte.jpeg Graphic file (type jpg)
+<use src/images/Schweissnähte.jpeg>
+Package pdftex.def Info: src/images/Schweissnähte.jpeg  used on input line 140.
+(pdftex.def)             Requested size: 102.18102pt x 61.6899pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--139
+Underfull \hbox (badness 10000) in paragraph at lines 134--141
 \OT1/cmss/m/n/7 gen^^?ugende Durch-schweis-sung, Nah-tun-ter-schre-itung, un-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--139
+Overfull \hbox (1.6528pt too wide) in paragraph at lines 134--141
+[] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--141
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--143
+Underfull \hbox (badness 10000) in paragraph at lines 143--146
 
  []
 
-) (./src/9_Fügen/Löten.tex) (./src/9_Fügen/Fügen durch Umformen.tex) (./src/9_Fügen/Kleben.tex
+) (./src/9_Fügen/Löten.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--9
+
+ []
+
+) (./src/9_Fügen/Fügen durch Umformen.tex) (./src/9_Fügen/Kleben.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--8
 
  []
@@ -1863,7 +1883,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--33
 []\OT1/cmss/m/n/7 Polmerisationsklebstoffe wer-den kat-alytisch durch
  []
 
-) [5 <./src/images/Trennen Diagramme1.jpeg> <./src/images/Trennen Diagramme2.jpeg> <./src/images/Verschleiss1.jpeg> <./src/images/Verschleiss2.jpeg> <./src/images/WIG.jpeg> <./src/images/MSG.png> <./src/images/WP.jpeg> <./src/images/Schweissnaht.png> <./src/images/Reibschweissen.jpeg> <./src/images/Schäfflerdiagramm.png>] (./main.aux)
+) [5 <./src/images/Trennen Diagramme1.jpeg> <./src/images/Trennen Diagramme2.jpeg> <./src/images/Verschleiss1.jpeg> <./src/images/Verschleiss2.jpeg> <./src/images/WIG.jpeg> <./src/images/MSG.png> <./src/images/WP.jpeg> <./src/images/Schweissnaht.png> <./src/images/Reibschweissen.jpeg> <./src/images/Schäfflerdiagramm.png> <./src/images/Schweissnähte.jpeg>] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1872,18 +1892,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 7A186B312232729E3B84FF92EF427DDE;267.
  ) 
 Here is how much of TeX's memory you used:
- 21208 strings out of 474116
- 409439 string characters out of 5743682
+ 21229 strings out of 474116
+ 410192 string characters out of 5743682
  2030187 words of memory out of 5000000
- 43032 multiletter control sequences out of 15000+600000
+ 43053 multiletter control sequences out of 15000+600000
  565420 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  116i,16n,121p,551b,994s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss0500.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss0700.pfb>
-Output written on main.pdf (5 pages, 10089760 bytes).
+Output written on main.pdf (5 pages, 11135637 bytes).
 PDF statistics:
- 281 PDF objects out of 1000 (max. 8388607)
+ 286 PDF objects out of 1000 (max. 8388607)
  154 compressed objects within 2 object streams
  60 named destinations out of 1000 (max. 500000)
- 264 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 279 words of extra memory for PDF output out of 10000 (max. 10000000)
 
