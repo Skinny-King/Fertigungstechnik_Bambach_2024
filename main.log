@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.12)  20 JAN 2025 16:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.12)  20 JAN 2025 17:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1316,20 +1316,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--91
 <src/images/Walzen.png, id=115, 367.3725pt x 251.94125pt>
 File: src/images/Walzen.png Graphic file (type png)
 <use src/images/Walzen.png>
-Package pdftex.def Info: src/images/Walzen.png  used on input line 1.
+Package pdftex.def Info: src/images/Walzen.png  used on input line 2.
 (pdftex.def)             Requested size: 113.81102pt x 78.051pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--4
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 5--8
+Underfull \hbox (badness 10000) in paragraph at lines 7--10
 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 10--93
+Underfull \hbox (badness 10000) in paragraph at lines 12--93
 
  []
 
@@ -1522,12 +1522,12 @@ File: src/images/Spanen.jpeg Graphic file (type jpg)
 Package pdftex.def Info: src/images/Spanen.jpeg  used on input line 20.
 (pdftex.def)             Requested size: 163.49023pt x 100.79883pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--25
+Underfull \hbox (badness 10000) in paragraph at lines 22--26
 
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 26--110
+Underfull \hbox (badness 10000) in paragraph at lines 27--110
 
  []
 
@@ -1900,7 +1900,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  116i,16n,121p,551b,994s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss0500.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfss0700.pfb>
-Output written on main.pdf (5 pages, 11135637 bytes).
+Output written on main.pdf (5 pages, 11135649 bytes).
 PDF statistics:
  286 PDF objects out of 1000 (max. 8388607)
  154 compressed objects within 2 object streams

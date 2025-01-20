@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1737387432.04598 "/Users/gmernst/Documents/ETH/HS24/Fertigungstechnik/ZF/Fertigungstechnik_Bambach_2024/main.tex" "main.pdf" "main" 1737387435.37728 0
+["pdflatex"] 1737390223.33136 "/Users/gmernst/Documents/ETH/HS24/Fertigungstechnik/ZF/Fertigungstechnik_Bambach_2024/main.tex" "main.pdf" "main" 1737390226.67925 0
   "/Users/gmernst/Documents/ETH/HS24/Fertigungstechnik/ZF/Fertigungstechnik_Bambach_2024/main.tex" 1737387298.61266 4747 66c22f5b26bf9d393ee6cbc67a4639bf ""
   "/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -161,8 +161,8 @@
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1736678436 8221431 ca4cd72dc1eea36172237ab174f55076 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
   "cheatsheet.cls" 1737373675.07379 7725 9dbdd9c30c634922a18900a8417245ae ""
-  "main.aux" 1737387435.27377 370 8ac7803f45eccbf9fed373ce62d735a0 "pdflatex"
-  "main.out" 1737387435.27409 267 7a186b312232729e3b84ff92ef427dde "pdflatex"
+  "main.aux" 1737390226.57562 370 8ac7803f45eccbf9fed373ce62d735a0 "pdflatex"
+  "main.out" 1737390226.57608 267 7a186b312232729e3b84ff92ef427dde "pdflatex"
   "main.tex" 1737387298.61266 4747 66c22f5b26bf9d393ee6cbc67a4639bf ""
   "src/1_Definition und Aufgaben/Definition und Aufgaben.tex" 1736792113.13725 621 8b843c86f58281199456ec15eb819042 ""
   "src/2_Kosten Rechnung/Machinenstundensatz.tex" 1736812827.50626 1873 e77ea66d1138256acdce6744bb7e1323 ""
@@ -199,12 +199,12 @@
   "src/7_Umformen/Tiefziehen.tex" 1736856336.08826 614 5c5001ba3244601c2080e05291ac9381 ""
   "src/7_Umformen/Umformen Formeln.tex" 1737373675.10233 3717 742c0aebc9e8e9d97e7880dd5098990c ""
   "src/7_Umformen/Umformen_Def.tex" 1736849677.87608 566 e96e88117437158419907fa020afe68c ""
-  "src/7_Umformen/Walzen.tex" 1737373675.10243 516 0335b9342229bb289bb1fff4abb12c1d ""
+  "src/7_Umformen/Walzen.tex" 1737390223.09216 548 75d47622efa239805c87b8e9adacbc9d ""
   "src/7_Umformen/Warmblechumformung.tex" 1737373675.10253 722 39816af9ff0b43b7fda437df778445a6 ""
   "src/8_Trennen/Drehen.tex" 1737373675.10263 2542 8c6137af6274bb7cd789490bc60e15a8 ""
   "src/8_Trennen/Fräsen.tex" 1737373675.10274 697 c716b07285603edfdd1aece117909bb8 ""
   "src/8_Trennen/Scherschneiden.tex" 1737373675.10283 948 49c0b900d2e7294e7fb7c292b86b4bd4 ""
-  "src/8_Trennen/Spanen.tex" 1737373675.10294 1242 d7bc0fd2896f6e634ffd468d678ba4aa ""
+  "src/8_Trennen/Spanen.tex" 1737390167.17758 1273 9f477f16ba1e886da88e1b3b893bffc8 ""
   "src/8_Trennen/Trennverfahren.tex" 1736866267.37393 599 61423ac1bae9dc0b17fd813357395adb ""
   "src/8_Trennen/Verschleiss.tex" 1737385829.04509 1708 8e20ca5849fe32f181a420d96866d296 ""
   "src/9_Fügen/Fügen durch Umformen.tex" 1736979271.17505 171 d59b7a843e1cd698136280d5d21d9041 ""
